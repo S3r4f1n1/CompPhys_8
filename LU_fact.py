@@ -1,6 +1,7 @@
 import numpy as np
 from scipy import linalg
 
+#Source: Alessandro Coretti
 
 def lu(M_in, pv):
     """ 
